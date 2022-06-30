@@ -6,3 +6,8 @@ where are you man?
 json is  very Good.
 
 }
+
+def hello(name):
+	printf"{name} how are you?"
+
+print(hello("jamal"))
